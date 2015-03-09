@@ -1,3 +1,3 @@
-# SixArm.com » Apache webserver » <br> /etc/apache2 configuration files
+# Apache webserver » <br> /etc/apache2 configuration files
 
 
